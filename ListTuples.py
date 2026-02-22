@@ -58,4 +58,4 @@ grades_list = ["C", "D", "A", "A", "B", "B", "A"]
 
 grades_list.sort()
 
-print("Sorted grades:", grades_list)
+# print("Sorted grades:", grades_list)
